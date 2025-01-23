@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt ="Telegram"/>
   </a>
 </div>
-<div id="skills align="center">
+<div id="skills" align="center">
   <h3> Languages and tools </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   title="python" width ="40" height="40"/>&nbsp;
@@ -22,5 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
     title="dbeaver" width ="40" height="40"/>&nbsp;
 </div>
-
+<br> <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alxn04&theme=default)
