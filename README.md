@@ -1,4 +1,8 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<header> 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
+<body>
+
 <div id="header" align="center">
   <h1> Hi there, i`m Anastasia </h1>
   <h3> Junior Data Analyst </h3>
@@ -25,3 +29,4 @@
 <br> <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alxn04&theme=default)
+</body>
