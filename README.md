@@ -4,8 +4,11 @@
 <body>
 
 <div id="header" align="center">
-  <h1> Hi there, i`m Anastasia </h1>
-  <h3> Junior Data Analyst </h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 <div id="refs" align ="center">
