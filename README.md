@@ -4,18 +4,18 @@
 <body>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFnMHJpOGlkNWV0N3g4eTAyb2hhOXc1YTZzZnRyaTNqMmpmazR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  <div id="refs" align ="center">
+    <a href="https://t.me/alxn004">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt ="Telegram"/>
+    </a>
+  </div>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 </div>
 
-<div id="refs" align ="center">
-  <a href="https://t.me/alxn004">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt ="Telegram"/>
-  </a>
-</div>
 <div id="skills" align="center">
   <h3> Languages and tools </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
