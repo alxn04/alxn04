@@ -21,7 +21,7 @@
   <h3> :woman_technologist: About Me : </h3>
   I am a Junior Data Analyst from Russia
   
-  - :mechanical_arm: I study at School 21 on the <b>Machine learning</b> branch.
+  - :mechanical_arm: I study at School 21 on the <b>Business System Analysis</b> branch.
 
   - :medal_military: Completed the Data Analyst course from the data science school <b>Karpov Courses</b>
 </div>
