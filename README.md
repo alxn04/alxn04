@@ -19,7 +19,7 @@
 
 <div id ="about me">
   <h3> :woman_technologist: About Me : </h3>
-  I am a Junior Data Analyst from Russia
+  I am a Junior Full-stack Analyst from Russia
   
   - :mechanical_arm: I study at School 21 on the <b>Business System Analysis</b> branch.
 
